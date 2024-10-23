@@ -11,7 +11,6 @@ No downstream patches, built with `yarn && yarn build:preview; cargo build
 
 ```
 dnf copr enable ecomaikgolf/typst 
-dnf update
 dnf install tinymist
 ```
 
