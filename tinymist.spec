@@ -22,7 +22,7 @@ Tinymist is an integrated language service for Typst
 
 %build
 yarn && yarn build:preview
-cargo build --release --all-features --locked
+cargo build --release --features=default --locked
 
 
 %install
