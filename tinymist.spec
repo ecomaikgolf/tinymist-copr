@@ -1,6 +1,6 @@
 Name:       tinymist
 Version:    0.13.8
-Release:    2
+Release:    1
 Summary:    Tinymist is an integrated language service for Typst. 
 
 License:    Apache-2.0
