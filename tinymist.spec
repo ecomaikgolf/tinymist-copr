@@ -9,6 +9,7 @@ Source0:    %{url}/archive/refs/tags/v%{version}.tar.gz
 
 BuildRequires: rust-packaging
 BuildRequires: nodejs
+BuildRequires: nodejs-npm
 BuildRequires: yarnpkg
 
 
