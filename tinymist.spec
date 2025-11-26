@@ -1,5 +1,5 @@
 Name:       tinymist
-Version:    0.14.2
+Version:    0.14.4
 Release:    1
 Summary:    Tinymist is an integrated language service for Typst. 
 
