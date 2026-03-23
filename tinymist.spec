@@ -1,5 +1,5 @@
 Name:       tinymist
-Version:    0.14.10
+Version:    0.14.12
 Release:    1
 Summary:    Tinymist is an integrated language service for Typst. 
 
@@ -40,4 +40,5 @@ install -m 0755 target/release/typlite %{buildroot}%{_bindir}/typlite
 
 
 %changelog
-%autochangelog
+* Wed Feb 11 2026 Ernesto Martinez <me@ecomaikgolf.com> - 0.14.10-1
+- Maintain explicit changelog entry for wider chroot compatibility.
